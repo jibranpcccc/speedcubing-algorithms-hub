@@ -4,10 +4,17 @@
     <title>Speedcubing &amp; Rubiks Clock Algorithms Hub</title>
     <link>https://speedcubing-algorithms-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:22:19 GMT</lastBuildDate>
     <atom:link href="https://speedcubing-algorithms-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-forum-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:22:19 GMT</pubDate>
+      <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>Speedcubing &amp; Rubiks Clock Algorithms Hub Initial Release</title>
       <link>https://speedcubing-algorithms-hub.netlify.app/</link>
       <pubDate>Fri, 18 Sep 2026 06:11:09 GMT</pubDate>
