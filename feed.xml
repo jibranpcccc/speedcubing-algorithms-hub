@@ -4,10 +4,17 @@
     <title>Speedcubing &amp; Rubiks Clock Algorithms Hub</title>
     <link>https://speedcubing-algorithms-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 06:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:09:18 GMT</lastBuildDate>
     <atom:link href="https://speedcubing-algorithms-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                <item>
+                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
+      <link>https://discord.gg/linux</link>
+      <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-discord-20261027-1-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 06:09:18 GMT</pubDate>
+      <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-discord-20261027-1-2026-11-03</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-github-20261006-1-2026-10-06</guid>
       <pubDate>Tue, 06 Oct 2026 06:09:59 GMT</pubDate>
       <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
-      <link>https://github.com/langchain-ai/langchain/discussions</link>
-      <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-discord-20261005-1-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 06:40:57 GMT</pubDate>
-      <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.</description>
     </item>
   </channel>
 </rss>
