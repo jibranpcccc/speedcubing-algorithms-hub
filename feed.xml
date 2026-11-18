@@ -4,10 +4,17 @@
     <title>Speedcubing &amp; Rubiks Clock Algorithms Hub</title>
     <link>https://speedcubing-algorithms-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:29:52 GMT</lastBuildDate>
     <atom:link href="https://speedcubing-algorithms-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-rubiks-clock-algorithms-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:29:52 GMT</pubDate>
+      <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-discord-20261027-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-forum-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:08:59 GMT</pubDate>
       <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
-      <link>https://t.me/cloud_native_hub</link>
-      <guid isPermaLink="false">https://speedcubing-algorithms-hub.netlify.app/#speedcubing-algorithms-hub-telegram-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:09:00 GMT</pubDate>
-      <description>Newly verified community added to Speedcubing &amp; Rubiks Clock Algorithms Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
     </item>
   </channel>
 </rss>
